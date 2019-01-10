@@ -10,7 +10,7 @@
 }
 
 #container {
-    position: relative;
+    float: left;
     top: 100px;
     left: 100px;
     border-style: solid;
